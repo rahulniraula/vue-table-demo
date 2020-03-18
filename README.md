@@ -1,4 +1,5 @@
-# table-demo
+# sample application using Vuejs table component 
+## <a href="https://vuejstabledemo.firebaseapp.com/" target="_blank"> Demo</a>
 
 ## Project setup
 ```
